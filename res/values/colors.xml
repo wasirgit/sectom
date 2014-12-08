@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : colors.xml
+    Created on : March 13, 2013, 12:10 PM
+    Author     : Anwar
+    Description:
+        Purpose of the document follows.
+-->
+
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#6e8086</color>
+    <color name="gray">#dddddd</color>
+    <color name="blue">#24b2eb</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent_white">#ffffff</color>
+    <color name="border">#CDC9C9</color>
+    <color name="textview_selected">#0000ff</color>
+    <color name="report_color">#17375D</color>
+
+</resources>

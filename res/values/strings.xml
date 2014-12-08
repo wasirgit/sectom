@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secto</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="signin_text">Sign in using your account</string>
+    <string name="initialize_text">Initializing...</string>
+    <string name="report">Report</string>
+    <string name="siteid">Site Id: </string>
+    <string name="stn">Service Tag Number:  </string>
+    <string name="note">NOTE: Contact the relevant network management centre prior to commencing, and on completion of works.  </string>
+    <string name="note1">Please insert before &amp; after photographs of any works completed below.  </string>
+    <string name="completion_report">Completion Report - Site Information </string>
+
+</resources>
